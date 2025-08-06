@@ -148,8 +148,4 @@ TypeScript supports:
 * Common design patterns implemented in TypeScript
 * LLD & HLD practices based on real-world scenarios
 
----
 
-🔥 Do you want me to **also add a section for Design Principles (SOLID) + examples in TypeScript**?
-Or **include popular Design Patterns (Singleton, Factory, Observer, etc.) with implementation**?
-Or **both as part of the repo structure**?
